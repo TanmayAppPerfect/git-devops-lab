@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+
+# OS files
+.DS_Store
