@@ -1,4 +1,7 @@
 
 Master change
 Feature change
+
  master new line 
+ Rebase feature line
+
