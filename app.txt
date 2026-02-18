@@ -5,3 +5,6 @@ Feature change
  master new line 
  Rebase feature line
 
+line A
+line B
+line C
